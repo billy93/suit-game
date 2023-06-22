@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: 29cf40958bce27a4d881d509402d78ec
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 986498c646772584fac580b1af99649d
+  - enabled: 1
+    path: Assets/Scenes/SuitGameScene.unity
+    guid: 07ef927f37389dc4091472b9b0d7a47d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: bfbc01d5200f6de4abf96930f0a7425a, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f5da3a53cfb10204ca80ed684a564c47, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 924c7182b7a4df944bd9f6e81fdd34a0, type: 2}
